@@ -39,14 +39,6 @@
 		"link": "https://www.aimp.ru/",
 		"winget": "AIMP.AIMP"
 	},
-	"WPFInstallalacritty": {
-		"category": "Utilities",
-		"choco": "alacritty",
-		"content": "Alacritty Terminal",
-		"description": "Alacritty is a fast, cross-platform, and GPU-accelerated terminal emulator. It is designed for performance and aims to be the fastest terminal emulator available.",
-		"link": "https://github.com/alacritty/alacritty",
-		"winget": "Alacritty.Alacritty"
-	},
 	"WPFInstallanaconda3": {
 		"category": "Development",
 		"choco": "anaconda3",
@@ -62,14 +54,6 @@
 		"description": "Angry IP Scanner is an open-source and cross-platform network scanner. It is used to scan IP addresses and ports, providing information about network connectivity.",
 		"link": "https://angryip.org/",
 		"winget": "angryziber.AngryIPScanner"
-	},
-	"WPFInstallanki": {
-		"category": "Document",
-		"choco": "anki",
-		"content": "Anki",
-		"description": "Anki is a flashcard application that helps you memorize information with intelligent spaced repetition.",
-		"link": "https://apps.ankiweb.net/",
-		"winget": "Anki.Anki"
 	},
 	"WPFInstallanydesk": {
 		"category": "Utilities",
@@ -127,14 +111,6 @@
 		"link": "https://github.com/sharkdp/bat",
 		"winget": "sharkdp.bat"
 	},
-	"WPFInstallbitcomet": {
-		"category": "Utilities",
-		"choco": "bitcomet",
-		"content": "BitComet",
-		"description": "BitComet is a free and open-source BitTorrent client that supports HTTP/FTP downloads and provides download management features.",
-		"link": "https://www.bitcomet.com/",
-		"winget": "CometNetwork.BitComet"
-	},
 	"WPFInstallbitwarden": {
 		"category": "Utilities",
 		"choco": "bitwarden",
@@ -142,14 +118,6 @@
 		"description": "Bitwarden is an open-source password management solution. It allows users to store and manage their passwords in a secure and encrypted vault, accessible across multiple devices.",
 		"link": "https://bitwarden.com/",
 		"winget": "Bitwarden.Bitwarden"
-	},
-	"WPFInstallbleachbit": {
-		"category": "Utilities",
-		"choco": "bleachbit",
-		"content": "BleachBit",
-		"description": "Clean Your System and Free Disk Space",
-		"link": "https://www.bleachbit.org/",
-		"winget": "BleachBit.BleachBit"
 	},
 	"WPFInstallblender": {
 		"category": "Multimedia Tools",
@@ -231,30 +199,6 @@
 		"link": "https://github.com/Hibbiki/chromium-win64",
 		"winget": "Hibbiki.Chromium"
 	},
-	"WPFInstallclementine": {
-		"category": "Multimedia Tools",
-		"choco": "clementine",
-		"content": "Clementine",
-		"description": "Clementine is a modern music player and library organizer, supporting various audio formats and online radio services.",
-		"link": "https://www.clementine-player.org/",
-		"winget": "Clementine.Clementine"
-	},
-	"WPFInstallclink": {
-		"category": "Development",
-		"choco": "clink",
-		"content": "Clink",
-		"description": "Clink is a powerful Bash-compatible command-line interface (CLIenhancement for Windows, adding features like syntax highlighting and improved history).",
-		"link": "https://mridgers.github.io/clink/",
-		"winget": "chrisant996.Clink"
-	},
-	"WPFInstallclonehero": {
-		"category": "Games",
-		"choco": "na",
-		"content": "Clone Hero",
-		"description": "Clone Hero is a free rhythm game, which can be played with any 5 or 6 button guitar controller.",
-		"link": "https://clonehero.net/",
-		"winget": "CloneHeroTeam.CloneHero"
-	},
 	"WPFInstallcopyq": {
 		"category": "Multimedia Tools",
 		"choco": "copyq",
@@ -287,22 +231,6 @@
 		"link": "https://crystalmark.info/en/software/crystaldiskmark/",
 		"winget": "CrystalDewWorld.CrystalDiskMark"
 	},
-	"WPFInstalldarktable": {
-		"category": "Multimedia Tools",
-		"choco": "darktable",
-		"content": "darktable",
-		"description": "Open-source photo editing tool, offering an intuitive interface, advanced editing capabilities, and a non-destructive workflow for seamless image enhancement.",
-		"link": "https://www.darktable.org/install/",
-		"winget": "darktable.darktable"
-	},
-	"WPFInstallDaxStudio": {
-		"category": "Development",
-		"choco": "daxstudio",
-		"content": "DaxStudio",
-		"description": "DAX (Data Analysis eXpressions) Studio is the ultimate tool for executing and analyzing DAX queries against Microsoft Tabular models.",
-		"link": "https://daxstudio.org/",
-		"winget": "DaxStudio.DaxStudio"
-	},
 	"WPFInstallddu": {
 		"category": "Utilities",
 		"choco": "ddu",
@@ -326,14 +254,6 @@
 		"description": "DevToys is a collection of development-related utilities and tools for Windows. It includes tools for file management, code formatting, and productivity enhancements for developers.",
 		"link": "https://devtoys.app/",
 		"winget": "9PGCV4V3BK4W"
-	},
-	"WPFInstalldigikam": {
-		"category": "Multimedia Tools",
-		"choco": "digikam",
-		"content": "digiKam",
-		"description": "digiKam is an advanced open-source photo management software with features for organizing, editing, and sharing photos.",
-		"link": "https://www.digikam.org/",
-		"winget": "KDE.digikam"
 	},
 	"WPFInstalldiscord": {
 		"category": "Communications",
@@ -487,22 +407,6 @@
 		"link": "https://www.balena.io/etcher/",
 		"winget": "Balena.Etcher"
 	},
-	"WPFInstallfalkon": {
-		"category": "Browsers",
-		"choco": "falkon",
-		"content": "Falkon",
-		"description": "Falkon is a lightweight and fast web browser with a focus on user privacy and efficiency.",
-		"link": "https://www.falkon.org/",
-		"winget": "KDE.Falkon"
-	},
-	"WPFInstallferdium": {
-		"category": "Communications",
-		"choco": "ferdium",
-		"content": "Ferdium",
-		"description": "Ferdium is a messaging application that combines multiple messaging services into a single app for easy management.",
-		"link": "https://ferdium.org/",
-		"winget": "Ferdium.Ferdium"
-	},
 	"WPFInstallffmpeg": {
 		"category": "Multimedia Tools",
 		"choco": "ffmpeg-full",
@@ -518,14 +422,6 @@
 		"description": "File Converter is a very simple tool which allows you to convert and compress one or several file(s) using the context menu in windows explorer.",
 		"link": "https://file-converter.org/",
 		"winget": "AdrienAllard.FileConverter"
-	},
-	"WPFInstallfirealpaca": {
-		"category": "Multimedia Tools",
-		"choco": "firealpaca",
-		"content": "Fire Alpaca",
-		"description": "Fire Alpaca is a free digital painting software that provides a wide range of drawing tools and a user-friendly interface.",
-		"link": "https://firealpaca.com/",
-		"winget": "FireAlpaca.FireAlpaca"
 	},
 	"WPFInstallfirefox": {
 		"category": "Browsers",
@@ -703,30 +599,6 @@
 		"link": "https://www.techpowerup.com/gpuz/",
 		"winget": "TechPowerUp.GPU-Z"
 	},
-	"WPFInstallgreenshot": {
-		"category": "Multimedia Tools",
-		"choco": "greenshot",
-		"content": "Greenshot (Screenshots)",
-		"description": "Greenshot is a light-weight screenshot software tool with built-in image editor and customizable capture options.",
-		"link": "https://getgreenshot.org/",
-		"winget": "Greenshot.Greenshot"
-	},
-	"WPFInstallgsudo": {
-		"category": "Utilities",
-		"choco": "gsudo",
-		"content": "Gsudo",
-		"description": "Gsudo is a sudo implementation for Windows, allowing elevated privilege execution.",
-		"link": "https://github.com/gerardog/gsudo",
-		"winget": "gerardog.gsudo"
-	},
-	"WPFInstallguilded": {
-		"category": "Communications",
-		"choco": "na",
-		"content": "Guilded",
-		"description": "Guilded is a communication and productivity platform that includes chat, scheduling, and collaborative tools for gaming and communities.",
-		"link": "https://www.guilded.gg/",
-		"winget": "Guilded.Guilded"
-	},
 	"WPFInstallhandbrake": {
 		"category": "Multimedia Tools",
 		"choco": "handbrake",
@@ -759,14 +631,6 @@
 		"link": "https://heroicgameslauncher.com/",
 		"winget": "HeroicGamesLauncher.HeroicGamesLauncher"
 	},
-	"WPFInstallhexchat": {
-		"category": "Communications",
-		"choco": "hexchat",
-		"content": "Hexchat",
-		"description": "HexChat is a free, open-source IRC (Internet Relay Chat) client with a graphical interface for easy communication.",
-		"link": "https://hexchat.github.io/",
-		"winget": "HexChat.HexChat"
-	},
 	"WPFInstallhwinfo": {
 		"category": "Utilities",
 		"choco": "hwinfo",
@@ -774,22 +638,6 @@
 		"description": "HWiNFO provides comprehensive hardware information and diagnostics for Windows.",
 		"link": "https://www.hwinfo.com/",
 		"winget": "REALiX.HWiNFO"
-	},
-	"WPFInstallimageglass": {
-		"category": "Multimedia Tools",
-		"choco": "imageglass",
-		"content": "ImageGlass (Image Viewer)",
-		"description": "ImageGlass is a versatile image viewer with support for various image formats and a focus on simplicity and speed.",
-		"link": "https://imageglass.org/",
-		"winget": "DuongDieuPhap.ImageGlass"
-	},
-	"WPFInstallimgburn": {
-		"category": "Multimedia Tools",
-		"choco": "imgburn",
-		"content": "ImgBurn",
-		"description": "ImgBurn is a lightweight CD, DVD, HD-DVD, and Blu-ray burning application with advanced features for creating and burning disc images.",
-		"link": "http://www.imgburn.com/",
-		"winget": "LIGHTNINGUK.ImgBurn"
 	},
 	"WPFInstallinkscape": {
 		"category": "Multimedia Tools",
@@ -814,14 +662,6 @@
 		"description": "iTunes is a media player, media library, and online radio broadcaster application developed by Apple Inc.",
 		"link": "https://www.apple.com/itunes/",
 		"winget": "Apple.iTunes"
-	},
-	"WPFInstalljami": {
-		"category": "Communications",
-		"choco": "jami",
-		"content": "Jami",
-		"description": "Jami is a secure and privacy-focused communication platform that offers audio and video calls, messaging, and file sharing.",
-		"link": "https://jami.net/",
-		"winget": "SFLinux.Jami"
 	},
 	"WPFInstalljava16": {
 		"category": "Development",
@@ -887,14 +727,6 @@
 		"link": "https://jellyfin.org/",
 		"winget": "Jellyfin.Server"
 	},
-	"WPFInstalljetbrains": {
-		"category": "Development",
-		"choco": "jetbrainstoolbox",
-		"content": "Jetbrains Toolbox",
-		"description": "Jetbrains Toolbox is a platform for easy installation and management of JetBrains developer tools.",
-		"link": "https://www.jetbrains.com/toolbox/",
-		"winget": "JetBrains.Toolbox"
-	},
 	"WPFInstalljoplin": {
 		"category": "Document",
 		"choco": "joplin",
@@ -918,14 +750,6 @@
 		"description": "Kdenlive is an open-source video editing software with powerful features for creating and editing professional-quality videos.",
 		"link": "https://kdenlive.org/",
 		"winget": "KDE.Kdenlive"
-	},
-	"WPFInstallkeepass": {
-		"category": "Utilities",
-		"choco": "keepassxc",
-		"content": "KeePassXC",
-		"description": "KeePassXC is a cross-platform, open-source password manager with strong encryption features.",
-		"link": "https://keepassxc.org/",
-		"winget": "KeePassXCTeam.KeePassXC"
 	},
 	"WPFInstallklite": {
 		"category": "Multimedia Tools",
@@ -975,14 +799,6 @@
 		"link": "https://librewolf-community.gitlab.io/",
 		"winget": "LibreWolf.LibreWolf"
 	},
-	"WPFInstalllinphone": {
-		"category": "Communications",
-		"choco": "linphone",
-		"content": "Linphone",
-		"description": "Linphone is an open-source voice over IP (VoIPservice that allows for audio and video calls, messaging, and more.",
-		"link": "https://www.linphone.org/",
-		"winget": "BelledonneCommunications.Linphone"
-	},
 	"WPFInstalllivelywallpaper": {
 		"category": "Utilities",
 		"choco": "lively",
@@ -999,14 +815,6 @@
 		"link": "https://localsend.org/",
 		"winget": "LocalSend.LocalSend"
 	},
-	"WPFInstalllogseq": {
-		"category": "Document",
-		"choco": "logseq",
-		"content": "Logseq",
-		"description": "Logseq is a versatile knowledge management and note-taking application designed for the digital thinker. With a focus on the interconnectedness of ideas, Logseq allows users to seamlessly organize their thoughts through a combination of hierarchical outlines and bi-directional linking. It supports both structured and unstructured content, enabling users to create a personalized knowledge graph that adapts to their evolving ideas and insights.",
-		"link": "https://logseq.com/",
-		"winget": "Logseq.Logseq"
-	},
 	"WPFInstallmalwarebytes": {
 		"category": "Utilities",
 		"choco": "malwarebytes",
@@ -1014,22 +822,6 @@
 		"description": "Malwarebytes is an anti-malware software that provides real-time protection against threats.",
 		"link": "https://www.malwarebytes.com/",
 		"winget": "Malwarebytes.Malwarebytes"
-	},
-	"WPFInstallmasscode": {
-		"category": "Document",
-		"choco": "na",
-		"content": "massCode (Snippet Manager)",
-		"description": "massCode is a fast and efficient open-source code snippet manager for developers.",
-		"link": "https://masscode.io/",
-		"winget": "antonreshetov.massCode"
-	},
-	"WPFInstallmatrix": {
-		"category": "Communications",
-		"choco": "element-desktop",
-		"content": "Matrix",
-		"description": "Matrix is an open network for secure, decentralized communication with features like chat, VoIP, and collaboration tools.",
-		"link": "https://element.io/",
-		"winget": "Element.Element"
 	},
 	"WPFInstallmeld": {
 		"category": "Utilities",
@@ -1063,14 +855,6 @@
 		"link": "https://github.com/agalwood/Motrix",
 		"winget": "agalwood.Motrix"
 	},
-	"WPFInstallmpc": {
-		"category": "Multimedia Tools",
-		"choco": "mpc-hc",
-		"content": "Media Player Classic (Video Player)",
-		"description": "Media Player Classic is a lightweight, open-source media player that supports a wide range of audio and video formats. It includes features like customizable toolbars and support for subtitles.",
-		"link": "https://mpc-hc.org/",
-		"winget": "clsid2.mpc-hc"
-	},
 	"WPFInstallmremoteng": {
 		"category": "Pro Tools",
 		"choco": "mremoteng",
@@ -1086,22 +870,6 @@
 		"description": "MSI Afterburner is a graphics card overclocking utility with advanced features.",
 		"link": "https://www.msi.com/Landing/afterburner",
 		"winget": "Guru3D.Afterburner"
-	},
-	"WPFInstallmullvadbrowser": {
-		"category": "Browsers",
-		"choco": "na",
-		"content": "Mullvad Browser",
-		"description": "Mullvad Browser is a privacy-focused web browser, developed in partnership with the Tor Project.",
-		"link": "https://mullvad.net/browser",
-		"winget": "MullvadVPN.MullvadBrowser"
-	},
-	"WPFInstallmusicbee": {
-		"category": "Multimedia Tools",
-		"choco": "musicbee",
-		"content": "MusicBee (Music Player)",
-		"description": "MusicBee is a customizable music player with support for various audio formats. It includes features like an integrated search function, tag editing, and more.",
-		"link": "https://getmusicbee.com/",
-		"winget": "MusicBee.MusicBee"
 	},
 	"WPFInstallnanazip": {
 		"category": "Utilities",
@@ -1175,14 +943,6 @@
 		"link": "https://nodejs.org/",
 		"winget": "OpenJS.NodeJS.LTS"
 	},
-	"WPFInstallnomacs": {
-		"category": "Multimedia Tools",
-		"choco": "nomacs",
-		"content": "Nomacs (Image viewer)",
-		"description": "Nomacs is a free, open-source image viewer that supports multiple platforms. It features basic image editing capabilities and supports a variety of image formats.",
-		"link": "https://github.com/nomacs/nomacs",
-		"winget": "nomacs.nomacs"
-	},
 	"WPFInstallnotepadplus": {
 		"category": "Document",
 		"choco": "notepadplusplus",
@@ -1198,14 +958,6 @@
 		"description": "NuGet is a package manager for the .NET framework, enabling developers to manage and share libraries in their .NET applications.",
 		"link": "https://www.nuget.org/",
 		"winget": "Microsoft.NuGet"
-	},
-	"WPFInstallnushell": {
-		"category": "Utilities",
-		"choco": "nushell",
-		"content": "Nushell",
-		"description": "Nushell is a new shell that takes advantage of modern hardware and systems to provide a powerful, expressive, and fast experience.",
-		"link": "https://www.nushell.sh/",
-		"winget": "Nushell.Nushell"
 	},
 	"WPFInstallnvclean": {
 		"category": "Utilities",
@@ -1238,30 +990,6 @@
 		"description": "Obsidian is a powerful note-taking and knowledge management application.",
 		"link": "https://obsidian.md/",
 		"winget": "Obsidian.Obsidian"
-	},
-	"WPFInstallokular": {
-		"category": "Document",
-		"choco": "okular",
-		"content": "Okular",
-		"description": "Okular is a versatile document viewer with advanced features.",
-		"link": "https://okular.kde.org/",
-		"winget": "KDE.Okular"
-	},
-	"WPFInstallonedrive": {
-		"category": "Microsoft Tools",
-		"choco": "onedrive",
-		"content": "OneDrive",
-		"description": "OneDrive is a cloud storage service provided by Microsoft, allowing users to store and share files securely across devices.",
-		"link": "https://onedrive.live.com/",
-		"winget": "Microsoft.OneDrive"
-	},
-	"WPFInstallonlyoffice": {
-		"category": "Document",
-		"choco": "onlyoffice",
-		"content": "ONLYOffice Desktop",
-		"description": "ONLYOffice Desktop is a comprehensive office suite for document editing and collaboration.",
-		"link": "https://www.onlyoffice.com/desktop.aspx",
-		"winget": "ONLYOFFICE.DesktopEditors"
 	},
 	"WPFInstallOPAutoClicker": {
 		"category": "Utilities",
@@ -1407,22 +1135,6 @@
 		"link": "https://github.com/safing/portmaster",
 		"winget": "Safing.Portmaster"
 	},
-	"WPFInstallposh": {
-		"category": "Development",
-		"choco": "oh-my-posh",
-		"content": "Oh My Posh (Prompt)",
-		"description": "Oh My Posh is a cross-platform prompt theme engine for any shell.",
-		"link": "https://ohmyposh.dev/",
-		"winget": "JanDeDobbeleer.OhMyPosh"
-	},
-	"WPFInstallpostman": {
-		"category": "Development",
-		"choco": "postman",
-		"content": "Postman",
-		"description": "Postman is a collaboration platform for API development that simplifies the process of developing APIs.",
-		"link": "https://www.postman.com/",
-		"winget": "Postman.Postman"
-	},
 	"WPFInstallpowerbi": {
 		"category": "Microsoft Tools",
 		"choco": "powerbi",
@@ -1511,14 +1223,6 @@
 		"link": "https://www.qbittorrent.org/",
 		"winget": "qBittorrent.qBittorrent"
 	},
-	"WPFInstallqtox": {
-		"category": "Communications",
-		"choco": "qtox",
-		"content": "QTox",
-		"description": "QTox is a free and open-source messaging app that prioritizes user privacy and security in its design.",
-		"link": "https://qtox.github.io/",
-		"winget": "Tox.qTox"
-	},
 	"WPFInstallrainmeter": {
 		"category": "Utilities",
 		"choco": "na",
@@ -1534,14 +1238,6 @@
 		"description": "Revo Uninstaller is an advanced uninstaller tool that helps you remove unwanted software and clean up your system.",
 		"link": "https://www.revouninstaller.com/",
 		"winget": "RevoUninstaller.RevoUninstaller"
-	},
-	"WPFInstallripgrep": {
-		"category": "Utilities",
-		"choco": "ripgrep",
-		"content": "Ripgrep",
-		"description": "Fast and powerful commandline search tool",
-		"link": "https://github.com/BurntSushi/ripgrep/",
-		"winget": "BurntSushi.ripgrep.MSVC"
 	},
 	"WPFInstallrufus": {
 		"category": "Utilities",
@@ -1567,14 +1263,6 @@
 		"link": "https://www.rust-lang.org/",
 		"winget": "Rustlang.Rust.MSVC"
 	},
-	"WPFInstallsamsungmagician": {
-		"category": "Utilities",
-		"choco": "samsung-magician",
-		"content": "Samsung Magician",
-		"description": "Samsung Magician is a utility for managing and optimizing Samsung SSDs.",
-		"link": "https://semiconductor.samsung.com/consumer-storage/magician/",
-		"winget": "Samsung.SamsungMagician"
-	},
 	"WPFInstallsandboxie": {
 		"category": "Utilities",
 		"choco": "sandboxie",
@@ -1591,14 +1279,6 @@
 		"link": "https://sourceforge.net/projects/snappy-driver-installer-origin",
 		"winget": "GlennDelahoy.SnappyDriverInstallerOrigin"
 	},
-	"WPFInstallsession": {
-		"category": "Communications",
-		"choco": "session",
-		"content": "Session",
-		"description": "Session is a private and secure messaging app built on a decentralized network for user privacy and data protection.",
-		"link": "https://getsession.org/",
-		"winget": "Oxen.Session"
-	},
 	"WPFInstallsharex": {
 		"category": "Multimedia Tools",
 		"choco": "sharex",
@@ -1614,14 +1294,6 @@
 		"description": "Shell is an expanded context menu tool that adds extra functionality and customization options to the Windows context menu.",
 		"link": "https://nilesoft.org/",
 		"winget": "Nilesoft.Shell"
-	},
-	"WPFInstallsidequest": {
-		"category": "Games",
-		"choco": "sidequest",
-		"content": "SideQuestVR",
-		"description": "SideQuestVR is a community-driven platform that enables users to discover, install, and manage virtual reality content on Oculus Quest devices.",
-		"link": "https://sidequestvr.com/",
-		"winget": "SideQuestVR.SideQuest"
 	},
 	"WPFInstallsignal": {
 		"category": "Communications",
@@ -1663,14 +1335,6 @@
 		"link": "https://www.spacedrive.com/",
 		"winget": "spacedrive.Spacedrive"
 	},
-	"WPFInstallstarship": {
-		"category": "Development",
-		"choco": "starship",
-		"content": "Starship (Shell Prompt)",
-		"description": "Starship is a minimal, fast, and customizable prompt for any shell.",
-		"link": "https://starship.rs/",
-		"winget": "starship"
-	},
 	"WPFInstallstartallback": {
 		"category": "Utilities",
 		"choco": "na",
@@ -1686,14 +1350,6 @@
 		"description": "Steam is a digital distribution platform for purchasing and playing video games, offering multiplayer gaming, video streaming, and more.",
 		"link": "https://store.steampowered.com/about/",
 		"winget": "Valve.Steam"
-	},
-	"WPFInstallstrawberry": {
-		"category": "Multimedia Tools",
-		"choco": "strawberrymusicplayer",
-		"content": "Strawberry (Music Player)",
-		"description": "Strawberry is an open-source music player that focuses on music collection management and audio quality. It supports various audio formats and features a clean user interface.",
-		"link": "https://github.com/strawberrymusicplayer/strawberry/",
-		"winget": "StrawberryMusicPlayer.Strawberry"
 	},
 	"WPFInstallstremio": {
 		"winget": "Stremio.Stremio",
@@ -1759,14 +1415,6 @@
 		"link": "https://tailscale.com/",
 		"winget": "tailscale.tailscale"
 	},
-	"WPFInstallTcNoAccSwitcher": {
-		"category": "Games",
-		"choco": "tcno-acc-switcher",
-		"content": "TCNO Account Switcher",
-		"description": "A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!",
-		"link": "https://github.com/TCNOco/TcNo-Acc-Switcher",
-		"winget": "TechNobo.TcNoAccountSwitcher"
-	},
 	"WPFInstalltcpview": {
 		"category": "Microsoft Tools",
 		"choco": "tcpview",
@@ -1807,22 +1455,6 @@
 		"link": "https://aka.ms/terminal",
 		"winget": "Microsoft.WindowsTerminal"
 	},
-	"WPFInstallThonny": {
-		"category": "Development",
-		"choco": "thonny",
-		"content": "Thonny Python IDE",
-		"description": "Python IDE for beginners.",
-		"link": "https://github.com/thonny/thonny",
-		"winget": "AivarAnnamaa.Thonny"
-	},
-	"WPFInstallthorium": {
-		"category": "Browsers",
-		"choco": "na",
-		"content": "Thorium Browser AVX2",
-		"description": "Browser built for speed over vanilla chromium. It is built with AVX2 optimizations and is the fastest browser on the market.",
-		"link": "http://thorium.rocks/",
-		"winget": "Alex313031.Thorium.AVX2"
-	},
 	"WPFInstallthunderbird": {
 		"category": "Communications",
 		"choco": "thunderbird",
@@ -1838,14 +1470,6 @@
 		"description": "Tidal is a music streaming service known for its high-fidelity audio quality and exclusive content. It offers a vast library of songs and curated playlists.",
 		"link": "https://tidal.com/",
 		"winget": "9NNCB5BS59PH"
-	},
-	"WPFInstalltor": {
-		"category": "Browsers",
-		"choco": "tor-browser",
-		"content": "Tor Browser",
-		"description": "Tor Browser is designed for anonymous web browsing, utilizing the Tor network to protect user privacy and security.",
-		"link": "https://www.torproject.org/",
-		"winget": "TorProject.TorBrowser"
 	},
 	"WPFInstalltotalcommander": {
 		"category": "Utilities",
@@ -1887,14 +1511,6 @@
 		"link": "https://ubisoftconnect.com/",
 		"winget": "Ubisoft.Connect"
 	},
-	"WPFInstallungoogled": {
-		"category": "Browsers",
-		"choco": "ungoogled-chromium",
-		"content": "Ungoogled",
-		"description": "Ungoogled Chromium is a version of Chromium without Google's integration for enhanced privacy and control.",
-		"link": "https://github.com/Eloston/ungoogled-chromium",
-		"winget": "eloston.ungoogled-chromium"
-	},
 	"WPFInstallunity": {
 		"category": "Development",
 		"choco": "unityhub",
@@ -1902,14 +1518,6 @@
 		"description": "Unity is a powerful game development platform for creating 2D, 3D, augmented reality, and virtual reality games.",
 		"link": "https://unity.com/",
 		"winget": "Unity.UnityHub"
-	},
-	"WPFInstallvagrant": {
-		"category": "Development",
-		"choco": "vagrant",
-		"content": "Vagrant",
-		"description": "Vagrant is an open-source tool for building and managing virtualized development environments.",
-		"link": "https://www.vagrantup.com/",
-		"winget": "Hashicorp.Vagrant"
 	},
 	"WPFInstallvc2015_32": {
 		"category": "Microsoft Tools",
@@ -1943,22 +1551,6 @@
 		"link": "https://www.ventoy.net/",
 		"winget": "Ventoy.Ventoy"
 	},
-	"WPFInstallvesktop": {
-		"category": "Communications",
-		"choco": "na",
-		"content": "Vesktop",
-		"description": "A cross platform electron-based desktop app aiming to give you a snappier Discord experience with Vencord pre-installed.",
-		"link": "https://github.com/Vencord/Vesktop",
-		"winget": "Vencord.Vesktop"
-	},
-	"WPFInstallviber": {
-		"category": "Communications",
-		"choco": "viber",
-		"content": "Viber",
-		"description": "Viber is a free messaging and calling app with features like group chats, video calls, and more.",
-		"link": "https://www.viber.com/",
-		"winget": "Viber.Viber"
-	},
 	"WPFInstallvideomass": {
 		"category": "Multimedia Tools",
 		"choco": "na",
@@ -1974,14 +1566,6 @@
 		"description": "Visual Studio 2022 is an integrated development environment (IDE) for building, debugging, and deploying applications.",
 		"link": "https://visualstudio.microsoft.com/",
 		"winget": "Microsoft.VisualStudio.2022.Community"
-	},
-	"WPFInstallvivaldi": {
-		"category": "Browsers",
-		"choco": "vivaldi",
-		"content": "Vivaldi",
-		"description": "Vivaldi is a highly customizable web browser with a focus on user personalization and productivity features.",
-		"link": "https://vivaldi.com/",
-		"winget": "VivaldiTechnologies.Vivaldi"
 	},
 	"WPFInstallvlc": {
 		"category": "Multimedia Tools",
@@ -2030,14 +1614,6 @@
 		"description": "Waterfox is a fast, privacy-focused web browser based on Firefox, designed to preserve user choice and privacy.",
 		"link": "https://www.waterfox.net/",
 		"winget": "Waterfox.Waterfox"
-	},
-	"WPFInstallwezterm": {
-		"category": "Development",
-		"choco": "wezterm",
-		"content": "Wezterm",
-		"description": "WezTerm is a powerful cross-platform terminal emulator and multiplexer",
-		"link": "https://wezfurlong.org/wezterm/index.html",
-		"winget": "wez.wezterm"
 	},
 	"WPFInstallwhatsapp": {
 		"category": "Communications",
@@ -2239,14 +1815,6 @@
 		"link": "https://github.com/ajeetdsouza/zoxide",
 		"winget": "ajeetdsouza.zoxide"
 	},
-	"WPFInstallzulip": {
-		"category": "Communications",
-		"choco": "zulip",
-		"content": "Zulip",
-		"description": "Zulip is an open-source team collaboration tool with chat streams for productive and organized communication.",
-		"link": "https://zulipchat.com/",
-		"winget": "Zulip.Zulip"
-	},
 	"WPFInstallsyncthingtray": {
 		"category": "Utilities",
 		"choco": "syncthingtray",
@@ -2262,14 +1830,6 @@
 		"description": "Miniconda is a free minimal installer for conda. It is a small bootstrap version of Anaconda that includes only conda, Python, the packages they both depend on, and a small number of other useful packages (like pip, zlib, and a few others).",
 		"link": "https://docs.conda.io/projects/miniconda",
 		"winget": "Anaconda.Miniconda3"
-	},
-	"WPFInstalltemurin": {
-		"category": "Development",
-		"choco": "temurin",
-		"content": "Eclipse Temurin",
-		"description": "Eclipse Temurin is the open source Java SE build based upon OpenJDK.",
-		"link": "https://adoptium.net/temurin/",
-		"winget": "EclipseAdoptium.Temurin.21.JDK"
 	},
 	"WPFInstallintelpresentmon": {
 		"category": "Utilities",
@@ -2311,7 +1871,7 @@
 		"link": "https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/",
 		"winget": "Guru3D.RTSS"
 	},
-		"WPFInstallspotify": {
+	"WPFInstallspotify": {
 		"category": "Utilities",
 		"choco": "spotify",
 		"content": "Spotify",
@@ -2319,7 +1879,7 @@
 		"link": "https://www.spotify.com/",
 		"winget": "Spotify.Spotify"
 	},
-		"WPFInstallnordvpn": {
+	"WPFInstallnordvpn": {
 		"category": "Utilities",
 		"choco": "nordvpn",
 		"content": "NordVPN",
@@ -2327,7 +1887,7 @@
 		"link": "https://nordvpn.com/",
 		"winget": "NordVPN.NordVPN"
 	},
-		"WPFInstalljava8": {
+	"WPFInstalljava8": {
 		"category": "Development",
 		"choco": "na",
 		"content": "Azul Zulu JRE 8",
@@ -2335,7 +1895,7 @@
 		"link": "https://www.azul.com/downloads/zulu-community/",
 		"winget": "Azul.Zulu.8.JRE"
 	},
-		"WPFInstalljava17": {
+	"WPFInstalljava17": {
 		"category": "Development",
 		"choco": "na",
 		"content": "Azul Zulu JRE 17",
@@ -2343,7 +1903,7 @@
 		"link": "https://www.azul.com/downloads/zulu-community/",
 		"winget": "Azul.Zulu.17.JRE"
 	},	
-		"WPFInstallwincaptureaudiobeta": {
+	"WPFInstallwincaptureaudiobeta": {
 		"category": "Multimedia Tools",
 		"choco": "na",
 		"content": "Win Capture Audio",
@@ -2351,7 +1911,7 @@
 		"link": "https://github.com/bozbez/win-capture-audio",
 		"winget": "bozbez.WinCaptureAudio.beta"
 	},
-		"WPFInstallspecialk": {
+	"WPFInstallspecialk": {
 		"category": "Utilities",
 		"choco": "na",
 		"content": "Special K",
@@ -2359,7 +1919,7 @@
 		"link": "https://www.special-k.info/",
 		"winget": "SpecialK.SpecialK"
 	},
-		"WPFInstalllogitechghub": {
+	"WPFInstalllogitechghub": {
 		"category": "Utilities",
 		"choco": "lghub",
 		"content": "Logitech G HUB",
@@ -2367,7 +1927,7 @@
 		"link": "https://www.logitechg.com/en-us/innovation/g-hub.html",
 		"winget": "Logitech.GHUB"
 	},
-		"WPFInstallqownnotes": {
+	"WPFInstallqownnotes": {
 		"category": "Document",
 		"choco": "qownnotes",
 		"content": "QOwnNotes",
