@@ -2295,4 +2295,84 @@
 		"link": "https://www.tightvnc.com/",
 		"winget": "GlavSoft.TightVNC"
 	}
+	"WPFInstallooklaspeedtest": {
+		"category": "Utilities",
+		"choco": "speedtest",
+		"content": "Speedtest",
+		"description": "Speedtest by Ookla is the definitive way to test the speed and performance of your internet connection",
+		"link": "https://www.speedtest.net/",
+		"winget": "Ookla.Speedtest.Desktop"
+	}
+	"WPFInstallguru3drtss": {
+		"category": "Utilities",
+		"choco": "na",
+		"content": "RivaTunerStatisticsServer",
+		"description": "Rivatuner Statistics Server is a utility that allows you to monitor and adjust your computer’s performance in various ways.",
+		"link": "https://www.guru3d.com/download/rtss-rivatuner-statistics-server-download/",
+		"winget": "Guru3D.RTSS"
+	}
+		"WPFInstallspotify": {
+		"category": "Utilities",
+		"choco": "spotify",
+		"content": "Spotify",
+		"description": "World's most popular audio streaming subscription service.",
+		"link": "https://www.spotify.com/",
+		"winget": "Spotify.Spotify"
+	}
+		"WPFInstallnordvpn": {
+		"category": "Utilities",
+		"choco": "nordvpn",
+		"content": "NordVPN",
+		"description": "NordVPN is a Lithuanian VPN service provided by Nordsec Ltd.",
+		"link": "https://nordvpn.com/",
+		"winget": "NordVPN.NordVPN"
+	}
+		"WPFInstalljava8": {
+		"category": "Development",
+		"choco": "na",
+		"content": "Azul Zulu JRE 8",
+		"description": "Azul Zulu JRE 8 is a distribution of the OpenJRE with long-term support, performance enhancements, and security updates.",
+		"link": "https://www.azul.com/downloads/zulu-community/",
+		"winget": "Azul.Zulu.8.JRE"
+	}
+		"WPFInstalljava17": {
+		"category": "Development",
+		"choco": "na",
+		"content": "Azul Zulu JRE 17",
+		"description": "Azul Zulu JRE 17 is a distribution of the OpenJRE with long-term support, performance enhancements, and security updates.",
+		"link": "https://www.azul.com/downloads/zulu-community/",
+		"winget": "Azul.Zulu.17.JRE"
+	}	
+		"WPFInstallwincaptureaudiobeta": {
+		"category": "Multimedia Tools",
+		"choco": "na",
+		"content": "Win Capture Audio",
+		"description": "An OBS plugin similar to OBS's win-capture/game-capture that allows for audio capture from a specific application, rather than the system's audio as a whole.",
+		"link": "https://github.com/bozbez/win-capture-audio",
+		"winget": "bozbez.WinCaptureAudio.beta"
+	}
+		"WPFInstallspecialk": {
+		"category": "Utilities",
+		"choco": "na",
+		"content": "Special K",
+		"description": "Lovingly referred to as the Swiss Army Knife of PC gaming, Special K does a bit of everything. It is best known for fixing and enhancing graphics, its many detailed performance analysis and correction mods, and a constantly growing palette of tools that solve a wide variety of issues affecting PC games.",
+		"link": "https://www.special-k.info/",
+		"winget": "SpecialK.SpecialK"
+	}
+		"WPFInstalllogitechghub": {
+		"category": "Utilities",
+		"choco": "lghub",
+		"content": "Logitech G HUB",
+		"description": "Logitech G HUB gives you a single portal for optimizing and customizing all your supported Logitech G gear: mice, keyboards, headsets, speakers, and webcams.",
+		"link": "https://www.logitechg.com/en-us/innovation/g-hub.html",
+		"winget": "Logitech.GHUB"
+	}
+		"WPFInstallqownnotes": {
+		"category": "Document",
+		"choco": "qownnotes",
+		"content": "QOwnNotes",
+		"description": "Free open source plain-text file markdown note-taking with Nextcloud / ownCloud integration.",
+		"link": "https://www.qownnotes.org/",
+		"winget": "pbek.QOwnNotes"
+	}	
 }
